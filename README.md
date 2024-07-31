@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   💻<br>Portfólio - Iuri Silva
 </h1>
 
@@ -44,4 +44,4 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
       </a>
     </td>
   </tr>
-</table>
+</table> -->
