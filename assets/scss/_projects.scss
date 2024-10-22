@@ -110,6 +110,14 @@
         background: linear-gradient(270deg, #536fed 0%, #17161d 100%);
       }
     }
+    #steam {
+      color: #06ff2c;
+
+      &::after {
+        background: linear-gradient(270deg, #e904da 0%, #17161d 100%);
+      }
+    }
+
 
     a {
       @include hover-link();
