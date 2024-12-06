@@ -356,7 +356,8 @@ header .grid-layout nav .nav-list li a:hover {
 
 #s-about .grid-layout>div #creator-photo {
     width: 47%;
-    background-image: url("https://media.licdn.com/dms/image/v2/D4D03AQG5do9Wxc0otw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728814292366?e=1734566400&v=beta&t=VWOsXa0BMXpU946bhSc3cFKLAh_tE9J_TBHiOO53CRs");
+    /* background-image: url("https://media.licdn.com/dms/image/v2/D4D03AQG5do9Wxc0otw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728814292366?e=1734566400&v=beta&t=VWOsXa0BMXpU946bhSc3cFKLAh_tE9J_TBHiOO53CRs"); */
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1022/798/409/lights-india-west-bengal-kolkata-wallpaper-preview.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
